@@ -5,4 +5,3 @@
 
 Here is the reference link to the project 
 
-" https://gowriseelamsu.github.io/Responsive-Personal-Portfolio/ "
